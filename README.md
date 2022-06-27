@@ -1,5 +1,5 @@
 # Gamecores-BOOOM-2022-Spider
-A spider to collect game data from Gamecores official list.
+A spider to collect game data from Gamecores' (official list](https://site.gcores.com/booom2022/games/).
 
 # How to use
 1. Select a directory and put the spider file
