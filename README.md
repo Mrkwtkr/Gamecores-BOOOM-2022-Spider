@@ -4,6 +4,7 @@ Python scripts to collect game data from [Gamecores official list](https://site.
 
 # 效果展示
 可参考我分享的这个 [游戏库](https://mrkwtkr.notion.site/cd98467e04044aad8ee93771bf9e8c28?v=25f3e029ff4d4329a2fc4d3841020e84)
+![](https://cdn.sspai.com/2022/06/26/ddebdd59d0daedf6ca6c164d6d489670.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
 
 # 如何使用
 ## 从 BOOOM 页面爬取数据
@@ -20,6 +21,7 @@ Python scripts to collect game data from [Gamecores official list](https://site.
 
 # Outcome
 As shown in this [Notion database](https://mrkwtkr.notion.site/cd98467e04044aad8ee93771bf9e8c28?v=25f3e029ff4d4329a2fc4d3841020e84)
+![](https://cdn.sspai.com/2022/06/26/ddebdd59d0daedf6ca6c164d6d489670.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
 
 # How to
 ## Start collecting games' data from BOOOM
