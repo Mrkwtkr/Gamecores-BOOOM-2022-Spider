@@ -1,5 +1,5 @@
 # Gamecores-BOOOM-2022-Spider
-从机核 BOOOM 官方页面收集游戏数据，并导入指定 Notion 数据库的几个脚本。<br>
+从 [机核 BOOOM 官方页面](https://site.gcores.com/booom2022/games/) 收集游戏数据，并导入指定 Notion 数据库的几个脚本。<br>
 Python scripts to collect game data from [Gamecores official list](https://site.gcores.com/booom2022/games/), and import them to a Notion database.
 
 # 如何使用
